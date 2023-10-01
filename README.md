@@ -3,5 +3,4 @@ A simple creature script with tons of comments to help people learn Eluna lua. S
 Watch the video [here](http://www.youtube.com/watch?v=QjKqYXxOJwg?si=PQ0HnSDREnMd68uv).
 
 
-[![IMAGE ALT TEXT HERE](your-gif-url.gif)](http://www.youtube.com/watch?v=QjKqYXxOJwg?si=PQ0HnSDREnMd68uv)
 
